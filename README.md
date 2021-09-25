@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @QasimMughal05
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
+- 👋 Hi, I’m @QasimMughal
+- 👀 I’m Software Tech Savvy
+- 🌱 I’m currently learning Data Sciences
+- 💞️ I’m looking to collaborate on Dig Data
+- 📫 Reach me qasimmohamad551@gmail.com
+- 
 <!---
 QasimMughal05/QasimMughal05 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
