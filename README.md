@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @QasimMughal
 - 👀 I’m Software Tech Savvy
-- 🌱 I’m currently learning Data Sciences
+- 🌱 I’m currently learning Chatbot development/ Manychat chatbot
 - 💞️ I’m looking to collaborate .........
 - 📫 Reach me qasimmohamad551@gmail.com
 - 
