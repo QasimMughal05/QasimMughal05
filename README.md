@@ -1,5 +1,5 @@
 <h1>I'm a Web Developer and Designer</h1>
-<img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" jsaction="VQAsE" class="r48jcc pT0Scc iPVvYb" style="max-width: 800px; height: 81px; margin: 0px; width: 108px;" alt="Coding Freak by Hakuna on Dribbble" jsname="kn3ccd">
+<img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" jsaction="VQAsE" class="r48jcc pT0Scc iPVvYb" style="max-width: 800px; height: auto; margin: 0px; width: auto;" alt="Coding Freak by Hakuna on Dribbble" jsname="kn3ccd">
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/thisizqasim) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/qasim-mughal) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Qasim-Mughal-64) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Mqasimmughal8) 
