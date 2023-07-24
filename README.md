@@ -1,5 +1,7 @@
 <h1>I'm a Web Developer and Designer</h1>
 
+<div style='position:relative; padding-bottom:calc(56.20% + 44px)'><iframe src='https://gfycat.com/ifr/KindDistortedIrrawaddydolphin' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div>
+
 <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgfycat.com%2Fkinddistortedirrawaddydolphin&psig=AOvVaw1JzGn3Jzb_MFgnrBhpx27E&ust=1690278735409000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLjWyo6Jp4ADFQAAAAAdAAAAABAk" jsaction="VQAsE" class="r48jcc pT0Scc iPVvYb" style="max-width: 540px; height: 81px; margin: 0px; width: 81px;" alt="Geometric Animations / 171119 gif processing creative coding art everyday  geometry http://ift.tt/2zWg0uB | Code art, Animation, Geometric" jsname="kn3ccd">
 
 ## 🌐 Socials:
