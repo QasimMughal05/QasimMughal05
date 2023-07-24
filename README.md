@@ -1,5 +1,6 @@
 <h1>I'm a Web Developer and Designer</h1>
-<img src="https://i.pinimg.com/originals/ef/2d/b0/ef2db0885d94fd149a4b7914923bb2a3.gif" jsaction="VQAsE" class="r48jcc pT0Scc iPVvYb" style="max-width: 540px; height: 81px; margin: 0px; width: 81px;" alt="Geometric Animations / 171119 gif processing creative coding art everyday  geometry http://ift.tt/2zWg0uB | Code art, Animation, Geometric" jsname="kn3ccd">
+
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgfycat.com%2Fkinddistortedirrawaddydolphin&psig=AOvVaw1JzGn3Jzb_MFgnrBhpx27E&ust=1690278735409000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLjWyo6Jp4ADFQAAAAAdAAAAABAk" jsaction="VQAsE" class="r48jcc pT0Scc iPVvYb" style="max-width: 540px; height: 81px; margin: 0px; width: 81px;" alt="Geometric Animations / 171119 gif processing creative coding art everyday  geometry http://ift.tt/2zWg0uB | Code art, Animation, Geometric" jsname="kn3ccd">
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/thisizqasim) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/qasim-mughal) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Qasim-Mughal-64) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Mqasimmughal8) 
