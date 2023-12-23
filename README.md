@@ -1,4 +1,4 @@
-<h1>FullStack Developer</h1>
+<h1>Full-Stack Developer</h1>
 
 <center><img src="https://media.tenor.com/GVk4jB2u_i8AAAAS/coding.gif" jsaction="VQAsE" class="r48jcc pT0Scc iPVvYb" style="max-width: 20em; height: 15em; margin: 0px; width: 32em;" alt="Geometric Animations / 171119 gif processing creative coding art everyday  geometry http://ift.tt/2zWg0uB | Code art, Animation, Geometric" jsname="kn3ccd"></center>
 
