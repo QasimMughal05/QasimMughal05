@@ -11,10 +11,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=QasimMughal05&theme=merko&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=QasimMughal05&theme=merko&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=QasimMughal05&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=Mqasimmughal8)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=QasimMughal05&icon=0&color=0)](https://visitcount.itsvg.in)
 
