@@ -1,6 +1,6 @@
 <h1>Full-Stack Developer</h1>
 
-<center><img src="https://media.tenor.com/GVk4jB2u_i8AAAAS/coding.gif" jsaction="VQAsE" class="r48jcc pT0Scc iPVvYb" style="max-width: 20em; height: 15em; margin: 0px; width: 32em;" alt="Geometric Animations / 171119 gif processing creative coding art everyday  geometry http://ift.tt/2zWg0uB | Code art, Animation, Geometric" jsname="kn3ccd"></center>
+<center><img src="https://user-images.githubusercontent.com/74038190…29223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" jsaction="VQAsE" class="r48jcc pT0Scc iPVvYb" style="max-width: 20em; height: 15em; margin: 0px; width: 32em;" alt="Geometric Animations / 171119 gif processing creative coding art everyday  geometry http://ift.tt/2zWg0uB | Code art, Animation, Geometric" jsname="kn3ccd"></center>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/thisizqasim) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/qasim-mughal) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Qasim-Mughal-64) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Mqasimmughal8) 
